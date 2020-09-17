@@ -12,7 +12,7 @@ This landing page is a multipurpose landing page template created by Stephane An
 
 ![Screenshot 4](screenshots/screenshot_4.png)
 
-![Screenshot 5](screenshots/screenshot_5.png)
+![Screenshot 5a](screenshots/screenshot_5a.png)
 
 ![Screenshot 6](screenshots/screenshot_6.png)
 
@@ -33,5 +33,5 @@ After downloading, edit HTML, CSS, and JavaScript with your text editor to make 
 
 ## License
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/StephDigital/Fitflix-Landing-Page/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/StephDigital/Water-Circles/blob/master/LICENSE)
 
