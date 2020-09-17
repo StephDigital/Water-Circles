@@ -10,6 +10,14 @@ This landing page is a multipurpose landing page template created by Stephane An
 
 ![Screenshot 3](screenshots/screenshot_3.png)
 
+![Screenshot 4](screenshots/screenshot_4.png)
+
+![Screenshot 5](screenshots/screenshot_5.png)
+
+![Screenshot 6](screenshots/screenshot_6.png)
+
+![Screenshot 7](screenshots/screenshot_7.png)
+
 ## Download and Installation
 
 To start using this template, choose one of the following options to get started:
