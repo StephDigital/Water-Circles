@@ -1,6 +1,6 @@
 # Water-Circles Landing Page
 
-This landing page is a multipurpose landing page template created by Stephane Andre.
+This landing page uses HTML, CSS (grid, flex), Javascript, and jQuery. It is also compatible with mobile devices using media queries. The Simplelightbox library offers an excellent presentation of the images. This landing page is a multipurpose landing page template created by Stephane Andre.
 
 ## Preview
 
